@@ -1,35 +1,47 @@
 # Hi 👋, I'm Rohan Chavan  
 
-🚀 A passionate **MERN Stack Developer** and **AI/ML Enthusiast** from India.  
-I love building scalable full-stack applications, working with data, and exploring the intersection of AI and web technologies.  
+🚀 A passionate **MERN Stack Developer | Spring Boot Enthusiast | AI Explorer** from Pune, India.  
+I enjoy building scalable full-stack applications, AI-powered tools, and contributing to impactful projects.  
 
 ---
 
-## 🔥 About Me  
-- 💻 Currently working on: **MERN Stack & AI-powered projects**  
-- 🎯 Interests: **Web Development | AI/ML | Data Science | Cloud**  
-- 🌱 Learning: **Advanced React, Node.js APIs, and AI integrations**  
-- 📫 Reach me at: **[Your Email/LinkedIn/GitHub Pages]**  
-- ⚡ Fun fact: I love solving coding challenges and debugging tricky bugs!  
+## 🧑‍💻 About Me  
+- 🎓 Pursuing **B.E in Information Technology (2022–2026)** at PICT, Pune (CGPA: 9.04)  
+- 💼 Former **Software Developer Intern @ InnoKarma Solutions Pvt. Ltd.** (Spring Boot Developer)  
+- 🌱 Currently learning **Advanced MERN, WebRTC, and AI integrations**  
+- 💡 Completed **Deloitte Australia Technology Job Simulation (Forage)**  
+- 🎯 Interested in **Web Development | AI/ML | Cloud | Scalable Systems**  
+
+📫 Reach me at: **rohanchavan3066@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-chavan-2a25b6259/) | [GitHub](https://github.com/rohan3066)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🌐 Frontend  
-- React.js | Redux | Tailwind CSS | Bootstrap | HTML | CSS | JavaScript  
+**Languages:** Java | C++ | JavaScript | Python | SQL  
+**Frontend:** React.js | Tailwind CSS | HTML5 | CSS3 | Bootstrap  
+**Backend:** Node.js | Express.js | Spring Boot | REST APIs  
+**Databases:** MongoDB | SQL  
+**AI/ML:** NLP | Scikit-learn | TensorFlow (basics)  
+**Tools:** Git | GitHub | Postman | VS Code | IntelliJ | PyCharm  
 
-### 🔧 Backend  
-- Node.js | Express.js | REST APIs | JWT Authentication  
+---
 
-### 🗄️ Database  
-- MongoDB | Mongoose  
+## 🚀 Projects  
 
-### 🤖 AI/ML  
-- Python | Pandas | NumPy | Scikit-learn | NLP | TensorFlow (basics)  
+### 📹 [PICT Video Conferencing](https://github.com/rohan3066/pictvideo_call) – MERN, WebRTC, Socket  
+- 1-on-1 video calling using WebRTC peer-to-peer connection  
+- Toggle mic & camera, dynamic UI updates, responsive design  
 
-### ⚙️ Tools & Others  
-- Git | GitHub | Docker (basic) | VS Code | Postman  
+### 📧 [AI-Powered Email Assistant](https://github.com/rohan3066/Email-Assistant) – Spring Boot, React, Gemini API  
+- Auto-generates context-aware email replies  
+- Integrated with Gmail via Chrome Extension  
+
+### 📚 [Edemy LMS App](https://github.com/rohan3066/Edemy) – MERN, Tailwind, Clerk, Stripe  
+- Secure authentication with Clerk  
+- Student dashboard to purchase & track courses  
+- Educator dashboard to upload/manage courses  
 
 ---
 
@@ -40,15 +52,16 @@ I love building scalable full-stack applications, working with data, and explori
 
 ---
 
-## 🌍 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## 🏅 Certifications  
+- **C++** – Udemy  
+- **JavaScript** – Udemy  
+- **MERN Stack** – Udemy  
+
+---
+
+## 🌟 Extracurriculars  
+- NSS Member (2022–2024)  
+- INC Technical Club Member (2022–2024)  
 
 ---
 
