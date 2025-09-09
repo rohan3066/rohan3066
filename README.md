@@ -1,14 +1,22 @@
-# Hi 👋, I'm Rohan Chavan  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rohan Chavan</h1>
+<h3 align="center">🚀 MERN Stack Developer | Spring Boot Enthusiast | AI Explorer</h3>
 
-🚀 A passionate **MERN Stack Developer | Spring Boot Enthusiast | AI Explorer** from Pune, India.  
-I enjoy building scalable full-stack applications, AI-powered tools, and contributing to impactful projects.  
+<p align="center">
+  <a href="https://github.com/rohan3066">
+    <img src="https://komarev.com/ghpvc/?username=rohan3066&label=Profile%20Views&color=blueviolet&style=flat" alt="rohan3066" />
+  </a>
+  <a href="https://github.com/rohan3066?tab=followers">
+    <img src="https://img.shields.io/github/followers/rohan3066?label=Followers&style=social" alt="followers-count">
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Pursuing **B.E in Information Technology (2022–2026)** at PICT, Pune (CGPA: 9.04)  
-- 💼 Former **Software Developer Intern @ InnoKarma Solutions Pvt. Ltd.** (Spring Boot Developer)  
-- 🌱 Currently learning **Advanced MERN, WebRTC, and AI integrations**  
+## 👨‍💻 About Me  
+- 🎓 **B.E in Information Technology (2022–2026)** @ PICT Pune (CGPA: 9.04)  
+- 💼 Ex-Intern **Software Developer @ InnoKarma Solutions Pvt. Ltd.** *(Spring Boot Developer)*  
+- 🌱 Currently learning **Advanced MERN, WebRTC, AI Integrations**  
 - 💡 Completed **Deloitte Australia Technology Job Simulation (Forage)**  
 - 🎯 Interested in **Web Development | AI/ML | Cloud | Scalable Systems**  
 
@@ -17,52 +25,70 @@ I enjoy building scalable full-stack applications, AI-powered tools, and contrib
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚒️ Tech Stack  
 
-**Languages:** Java | C++ | JavaScript | Python | SQL  
-**Frontend:** React.js | Tailwind CSS | HTML5 | CSS3 | Bootstrap  
-**Backend:** Node.js | Express.js | Spring Boot | REST APIs  
-**Databases:** MongoDB | SQL  
-**AI/ML:** NLP | Scikit-learn | TensorFlow (basics)  
-**Tools:** Git | GitHub | Postman | VS Code | IntelliJ | PyCharm  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,spring,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
-### 📹 [PICT Video Conferencing](https://github.com/rohan3066/pictvideo_call) – MERN, WebRTC, Socket  
-- 1-on-1 video calling using WebRTC peer-to-peer connection  
-- Toggle mic & camera, dynamic UI updates, responsive design  
+### 📹 [PICT Video Conferencing](https://github.com/rohan3066/pictvideo_call)  
+🔹 *MERN, WebRTC, Socket.io*  
+- 1-on-1 video calling with WebRTC peer-to-peer  
+- Toggle mic & camera, dynamic UI, responsive design  
 
-### 📧 [AI-Powered Email Assistant](https://github.com/rohan3066/Email-Assistant) – Spring Boot, React, Gemini API  
+### 📧 [AI-Powered Email Assistant](https://github.com/rohan3066/Email-Assistant)  
+🔹 *Spring Boot, React, Gemini API*  
 - Auto-generates context-aware email replies  
 - Integrated with Gmail via Chrome Extension  
 
-### 📚 [Edemy LMS App](https://github.com/rohan3066/Edemy) – MERN, Tailwind, Clerk, Stripe  
-- Secure authentication with Clerk  
-- Student dashboard to purchase & track courses  
-- Educator dashboard to upload/manage courses  
+### 📚 [Edemy LMS App](https://github.com/rohan3066/Edemy)  
+🔹 *MERN, Tailwind, Clerk, Stripe*  
+- Authentication with Clerk  
+- Student dashboard for courses  
+- Educator dashboard for course management  
+
+---
+
+## 📌 Other Repositories  
+
+- 🔍 [Website Security Vulnerability Scanner](https://github.com/rohan3066/Website-Security-Vulnerability-Scanner)  
+- 🛒 [Dairy Business Management System](https://github.com/rohan3066/Dairy-Management-System)  
+- 🎬 [Movie Recommendation System](https://github.com/rohan3066/Movie-Recommendation-System)  
+- 🤖 [ChillBot – AI Companion](https://github.com/rohan3066/ChillBot)  
+- 🏫 [Edamy LMS](https://github.com/rohan3066/Edamy)  
+
+👉 Explore more here: [All Repositories](https://github.com/rohan3066?tab=repositories)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan3066&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan3066&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan3066&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan3066&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohan3066&theme=radical&hide_border=false" height="165"/>
+</p>
 
 ---
 
 ## 🏅 Certifications  
-- **C++** – Udemy  
-- **JavaScript** – Udemy  
-- **MERN Stack** – Udemy  
+✔️ C++ – Udemy  
+✔️ JavaScript – Udemy  
+✔️ MERN Stack – Udemy  
 
 ---
 
 ## 🌟 Extracurriculars  
-- NSS Member (2022–2024)  
-- INC Technical Club Member (2022–2024)  
+- 👥 NSS Member (2022–2024)  
+- 💡 INC Technical Club (2022–2024)  
 
 ---
 
-⭐️ From [rohan3066](https://github.com/rohan3066)  
+<h3 align="center">⭐ From <a href="https://github.com/rohan3066">rohan3066</a></h3>
